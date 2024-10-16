@@ -13,6 +13,7 @@ public $animal = ["cat","fish","cow"];
  public function index ()
  {
     return  $this->animal;
+   //  TES
  }
 
  public function store (Request $request){
