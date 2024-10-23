@@ -8,7 +8,7 @@ use App\Http\Controllers\AnimalController;
 class AnimalController extends Controller
 {
 
-public $animal = ["cat","fish","cow"];
+public $animal = ["cat","fish","cow", "goat", "Lion"];
 
  public function index ()
  {
